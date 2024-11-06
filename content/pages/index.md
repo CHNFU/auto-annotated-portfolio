@@ -1,10 +1,10 @@
 ---
 type: PageLayout
-title: Home
+title: 个人作品集
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/img1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,17 +14,18 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      "我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件".
+      我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件
     subtitle: >-
-       welcome
+       这是我的信息——我与你们分享这一切，希望我的作品集能够给你留下深刻印象。
+       如果您印象深刻，您可以继续向下滚动以查看有关我的更多详细信息和证书。
     styles:
       self:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-20
           - mb-0
-          - ml-0
+          - ml-10
           - mr-0
         padding:
           - pt-36
@@ -65,9 +66,9 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-20
           - mb-0
-          - ml-0
+          - ml-10
           - mr-0
         padding:
           - pt-24
@@ -127,7 +128,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "你有好玩的项目吗?敬请联系我...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -154,18 +155,18 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: address
-          label: Address
+          label: 地址
           hideLabel: true
           placeholder: Address
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: 接受地址并更新
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         submitLabel:
           textAlign: center
