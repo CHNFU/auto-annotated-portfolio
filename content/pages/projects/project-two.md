@@ -3,16 +3,15 @@ type: ProjectLayout
 title: AIGC未来交通工具
 colors: colors-a
 date: '2023-12-20'
-client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  sd,mj生图
 featuredImage:
   type: ImageBlock
-  url: /images/img2.png
+  url: /images/img1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/img1.jpg
   altText: Project image
 ---
 
