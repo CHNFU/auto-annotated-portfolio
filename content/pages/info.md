@@ -19,7 +19,7 @@ sections:
       荣获国家励志奖学金，优秀学生等多项奖学金，并拥有一项实用型专利
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/img2.jpg
       altText: Hero image
     styles:
       self:
