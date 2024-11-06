@@ -16,8 +16,7 @@ sections:
     title: >-
       我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件
     subtitle: >-
-       这是我的信息——我与你们分享这一切，希望我的作品集能够给你留下深刻印象。
-       如果您印象深刻，您可以继续向下滚动以查看有关我的更多详细信息和证书。
+      这是我的信息——我与你们分享这一切，希望我的作品集能够给你留下深刻印象。如果您印象深刻，您可以继续向下滚动以查看有关我的更多详细信息和证书。
     styles:
       self:
         height: auto
@@ -50,7 +49,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: 查看所有项目
         url: /projects
     showDate: false
     showDescription: true
@@ -82,16 +81,16 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: '项目'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: 精选项目
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: 查看所有项目
         url: /blog
     posts:
       - content/pages/blog/post-six.md
@@ -133,31 +132,31 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
+        - name: full name
+          label: 姓名
           hideLabel: true
-          placeholder: First Name
+          placeholder: 姓名
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: company
+          label: 单位
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 单位
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 邮箱
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: 1/2
           type: EmailFormControl
         - name: address
           label: 地址
           hideLabel: true
-          placeholder: Address
+          placeholder: 地址
           isRequired: true
           width: 1/2
           type: TextFormControl
