@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/img1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,46 +31,46 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "让我们讨论讨论... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: 姓名
           hideLabel: true
-          placeholder: First Name
+          placeholder: 姓名
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: company
+          label: 单位
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 单位
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 邮箱
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
-          label: Message
+          label: 信息
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: 请告诉我关于您的项目
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: 接受以便于我能收到您的信息
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         submitLabel:
           textAlign: center
