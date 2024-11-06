@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-7-15'
 client: Awesome client
 description: >-
-  为游客和新生量身定制的导览APP，预约参观、路线规划、展区介绍、展品详情、反馈投诉等功能一应俱全，全方位提升游览体验。
+为游客和新生量身定制的导览APP，预约参观、路线规划、展区介绍、展品详情、反馈投诉等功能一应俱全，全方位提升游览体验。
   type: ImageBlock
   url: /images/bg1.jpg
   altText: Project thumbnail image
