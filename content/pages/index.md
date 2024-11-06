@@ -14,12 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      "我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件".
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    "这是我的信息，我和大家分享这一切，给大家留下深刻的印象
+过去几年我所做的辛勤工作。一旦你被打动了，你
+可以继续向下滚动以查看有关我的更多详细信息和依据。"
     styles:
       self:
         height: auto
