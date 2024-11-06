@@ -16,9 +16,7 @@ sections:
     title: >-
       "我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件".
     subtitle: >-
-    这是我的信息，我和大家分享这一切，给大家留下深刻的印象
-过去几年我所做的辛勤工作。一旦你被打动了，你
-可以继续向下滚动以查看有关我的更多详细信息和依据。
+       welcome
     styles:
       self:
         height: auto
