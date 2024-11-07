@@ -14,17 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## 嗨，我是一名体验交互设计师，CFZ,本科毕业于GDUT
-      我拥有多项技能，rhino，blender，keyshot建模动画，Axure,figma界面UIUX设计
-      荣获国家励志奖学金，优秀学生等多项奖学金，并拥有一项实用型专利
+      ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
+      ## 我拥有多项技能，rhino，blender，keyshot建模动画，Axure,figma界面UIUX设计
+      ## 荣获国家励志奖学金，优秀学生等多项奖学金，并拥有一项实用型专利
     media:
       type: ImageBlock
       url: /images/img2.jpg
       altText: Hero image
     styles:
       self:
-        height: auto
-        width: wide
+        height: 930px
+        width: 620px
         margin:
           - mt-0
           - mb-0
@@ -59,7 +59,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: '工作经历:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
@@ -188,7 +188,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: '你会在这些地方见到我:'
   - type: DividerSection
     styles:
       self:
@@ -203,24 +203,24 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: '技能:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Figma
       - type: Label
-        label: React
+        label: Rhino,SW
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Blender,keyshot
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: PS,AI
       - type: Label
-        label: C++
+        label: C,C++,Py
       - type: Label
-        label: Swift
+        label: 剪映
   - type: DividerSection
     styles:
       self:
@@ -235,10 +235,10 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: '联系我:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [2976049544@qq.com](mailto:2976049544@qq.com)
   - type: DividerSection
     styles:
       self:
@@ -255,27 +255,27 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: '个人经历:'
         text: |-
-          **Current**
+          **现在**
 
-          * freelance @freelance.me
+          * 本科就读于GDUT
 
-          **2018-2021**
+          **2023-2024**
 
-          * fullstack at this startup
+          * 工业设计设计沙龙部长
 
-          **2015**
+          **2022-2023**
 
-          * senior front-end at this place
+          * 青春健康协会会员
 
-          **2013**
+          **2022-2023**
 
-          * intern developer at a big company
+          * 三下乡暑期社会实践
 
-          **2011**
+          **2022**
 
-          * flipping burgers
+          * 校内收发部门勤工俭学
         styles:
           self:
             textAlign: left
@@ -285,19 +285,19 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: '教育经历:'
         text: |-
-          **2015-2018**
+          **2022-2026**
 
-          * ba computer sciense at a semi fancy school
+          * GDUT本科工业设计学士学位
 
-          **2014**
+          **2022-2023**
 
-          * react certificate somewhere
+          * 过四六级，兼职家教，辅导初中学生
 
-          **2011**
+          **2019-2022**
 
-          * my highschool
+          * 高中就读湛江第一中学
         styles:
           self:
             textAlign: left
@@ -346,46 +346,46 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "让我们讨论讨论... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: 姓名
           hideLabel: true
-          placeholder: First Name
+          placeholder: 姓名
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: Last Name
+          label: 单位
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 单位
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 邮件
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮件
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
-          label: Message
+          label: 信息
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: 请向我讲述关于您的项目...
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: 接受以便我能收到您的信息
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         submitLabel:
           textAlign: center
