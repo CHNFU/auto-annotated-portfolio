@@ -10,25 +10,25 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "个人信息",
+                "url": "/个人信息"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "项目",
+                "url": "/项目"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "博客",
+                "url": "/博客"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
+                "altText": "推特",
+                "label": "推特",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
             },
@@ -51,38 +51,38 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "个人信息",
+                "url": "/个人信息",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "label": "联系",
+                "url": "https://github.com/CHNFU/auto-annotated-portfolio",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "博客",
+                "url": "/博客",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/",
                 "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "title": "详细联系",
+            "phoneNumber": "14767314626",
+            "phoneAltText": "我的手机号",
+            "email": "2976049544@qq.com",
+            "emailAltText": "我的邮箱",
+            "address": "GDUT东风路校区",
+            "addressAltText": "我的地址"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
