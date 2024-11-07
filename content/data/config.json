@@ -11,17 +11,17 @@
             {
                 "type": "Link",
                 "label": "个人信息",
-                "url": "/个人信息"
+                "url": "/info"
             },
             {
                 "type": "Link",
                 "label": "项目",
-                "url": "/项目"
+                "url": "/project"
             },
             {
                 "type": "Link",
                 "label": "博客",
-                "url": "/博客"
+                "url": "/blog"
             }
         ],
         "socialLinks": [
@@ -52,7 +52,7 @@
             {
                 "type": "Link",
                 "label": "个人信息",
-                "url": "/个人信息",
+                "url": "/info",
                 "altText": ""
             },
             {
@@ -64,7 +64,7 @@
             {
                 "type": "Link",
                 "label": "博客",
-                "url": "/博客",
+                "url": "/blog",
                 "altText": ""
             },
             {
