@@ -58,39 +58,39 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: '写给我的话 ✍️'
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: 姓名
           hideLabel: true
-          placeholder: First Name
+          placeholder: 姓名
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: Last Name
+          label: 单位
           hideLabel: true
-          placeholder: Last Name
+          placeholder: 单位
           isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 邮箱
           hideLabel: true
-          placeholder: Email
+          placeholder: 邮箱
           isRequired: true
           width: full
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: 接受以便我能收到您的信息
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "提交 \U0001F680"
       styles:
         submitLabel:
           textAlign: center
