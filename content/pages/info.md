@@ -15,16 +15,18 @@ sections:
     backgroundSize: full
     text: >-
       ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
-      ## 我拥有多项技能，rhino，blender，keyshot建模动画，Axure,figma界面UIUX设计
-      ## 荣获国家励志奖学金，优秀学生等多项奖学金，并拥有一项实用型专利
+      我拥有多项技能，rhino，blender，keyshot建模动画
+      Axure,figma，界面UIUX设计
+      荣获国家励志奖学金，优秀学生等多项奖学金，
+      并拥有一项实用型专利
     media:
       type: ImageBlock
       url: /images/img2.jpg
       altText: Hero image
     styles:
       self:
-        height: 930px
-        width: 620px
+        height: auto
+        width: wide
         margin:
           - mt-0
           - mb-0
