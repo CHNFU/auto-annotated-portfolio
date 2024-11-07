@@ -5,10 +5,10 @@ colors: colors-a
 date: '2023-01-22'
 client: Awesome client
 description: >-
-  这款玩具飞机的是比较特殊的 EPP 塑料材质，飞行路线距离:约300米，充电时间约40分钟,遥控距离约15分钟。
+  这款玩具飞机是特殊的 EPP 塑料材质，飞行距离:约300米，充电时间约40分钟,遥控距离约15分钟。
 featuredImage:
   type: ImageBlock
-  url: /images/img4.png
+  url: /images/img4.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
