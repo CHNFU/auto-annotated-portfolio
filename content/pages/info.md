@@ -52,8 +52,8 @@ sections:
       self:
         width: wide
         padding:
-          - pt-32
-          - pb-32
+          - pt-16
+          - pb-16
           - pl-8
           - pr-8
         justifyContent: center
