@@ -52,10 +52,10 @@ sections:
       self:
         width: wide
         padding:
-          - pt-16
-          - pb-16
-          - pl-8
-          - pr-8
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
