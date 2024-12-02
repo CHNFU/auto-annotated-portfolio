@@ -35,11 +35,11 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
       actions:
         justifyContent: flex-start
     type: HeroSection
@@ -99,9 +99,9 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - type: DividerSection
     styles:
       self:
@@ -183,9 +183,9 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
     subtitle: '你会在这些地方见到我:'
   - type: DividerSection
     styles:
@@ -405,7 +405,7 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
 ---
