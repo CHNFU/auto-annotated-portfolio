@@ -7,7 +7,7 @@ description: >-
   sd,mj生图
 featuredImage:
   type: ImageBlock
-  url: /public/星光列车最终版.jpg
+  url: /image/xingguan.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
