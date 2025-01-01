@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/wanju.jpg
+  url: /images/bisai.jpg
   altText: Project image
 ---
 
