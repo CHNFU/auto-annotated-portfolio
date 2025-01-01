@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AIGC未来交通工具
+title: AIGC
 colors: colors-a
 date: '2023-12-20'
 description: >-
@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /public/海报.jpg
+  url: /public/aigc.jpg
   altText: Project image
 ---
 
