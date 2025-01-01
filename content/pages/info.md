@@ -14,16 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-    ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
-    ## 熟练使用rhino、blender、keyshot Axure、figma等
+    ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT  熟练使用rhino、blender、keyshot Axure、figma等
     media:
       type: ImageBlock
       url: /images/img2.jpg
       altText: Hero image
     styles:
       self:
-        height: 400px
-        width: 600px
+        height: auto
+        width: auto
         margin:
           - mt-0
           - mb-0
@@ -36,11 +35,11 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
         textAlign: center
       text:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: flex-start
     type: HeroSection
