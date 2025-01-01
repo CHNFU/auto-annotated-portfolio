@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      我是一名体验交互设计师，能够熟练使用figma，Axure，PS等设计软件
+      As an experience interaction designer, I am familiar with figma, Axure, PS and other design software
     subtitle: >-
       这是我的信息——我与你们分享这一切，希望我的作品集能够给你留下深刻印象。如果您印象深刻，您可以继续向下滚动以查看有关我的更多详细信息和证书。
     styles:
