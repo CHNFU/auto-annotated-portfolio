@@ -35,7 +35,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: left
       title:
         textAlign: left
       subtitle:
