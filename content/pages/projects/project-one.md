@@ -8,7 +8,7 @@ description: >-
   为游客和新生量身定制的导览APP
 featuredImage: 
   type: ImageBlock
-  url: /images/img8.png
+  url: /images/img.8.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
