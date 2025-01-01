@@ -4,7 +4,7 @@ title: 海报
 colors: colors-a
 date: '2023-12-20'
 description: >-
-  PS，手绘等
+  PS，手绘,建模等
 featuredImage:
   type: ImageBlock
   url: /images/haibao.jpg
@@ -12,6 +12,18 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/shouhui.jpg
+  altText: Project image
+media:
+  type: ImageBlock
+  url: /images/bisai.jpg
+  altText: Project image
+media:
+  type: ImageBlock
+  url: /images/jiqiren.png
+  altText: Project image
+media:
+  type: ImageBlock
+  url: /images/jiqiren1.png
   altText: Project image
 ---
 
