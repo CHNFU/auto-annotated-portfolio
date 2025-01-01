@@ -14,15 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hi, I am CFZ, an experiential interaction designer. I graduated from GDUT. I have many skills, including rhino, blender, keyshot, modeling animation, Axure,figma, and interface UIUX design. I have won the National Inspirational Scholarship, Outstanding Student and many other scholarships, and have a practical patent
+    ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
+    ## 熟练使用rhino、blender、keyshot Axure、figma等
     media:
       type: ImageBlock
       url: /images/img2.jpg
       altText: Hero image
     styles:
       self:
-        height: auto
-        width: auto
+        height: 400px
+        width: 600px
         margin:
           - mt-0
           - mb-0
