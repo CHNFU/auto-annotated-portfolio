@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     text: >-
      ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
-    熟练使用rhino、blender、keyshot Axure、figma等
+    熟练使用rhino、blender、keyshot Axure、figma等.
     media:
       type: ImageBlock
       url: /images/img2.jpg
