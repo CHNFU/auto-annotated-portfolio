@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-     ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT 熟练使用rhino、blender、keyshot Axure、figma等.
+    ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
+      also where I’m based. I’m currently a free agent, ex-this, ex-that,
+      ex-super big name. When I’m not coding, writing or creating, I eat
+      cereals. 
     media:
       type: ImageBlock
       url: /images/img2.jpg
