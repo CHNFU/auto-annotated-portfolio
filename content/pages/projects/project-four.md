@@ -13,18 +13,6 @@ media:
   type: ImageBlock
   url: /images/shouhui.jpg
   altText: Project image
-media:
-  type: ImageBlock
-  url: /images/bisai.jpg
-  altText: Project image
-media:
-  type: ImageBlock
-  url: /images/jiqiren.png
-  altText: Project image
-media:
-  type: ImageBlock
-  url: /images/jiqiren1.png
-  altText: Project image
 ---
 
 
