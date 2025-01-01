@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-    ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. 
+      ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT 我拥有多项技能，rhino，blender，keyshot建模动画 Axure,figma，界面UIUX设计 荣获国家励志奖学金，优秀学生等多项奖学金， 并拥有一项实用型专利
     media:
       type: ImageBlock
       url: /images/img2.jpg
@@ -38,11 +35,11 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
       actions:
         justifyContent: flex-start
     type: HeroSection
