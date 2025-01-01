@@ -7,11 +7,11 @@ description: >-
   sd,mj生图
 featuredImage:
   type: ImageBlock
-  url: /image/xingguan.jpg
+  url: /images/xingguan.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /public/aigc.jpg
+  url: /images/wanju.jpg
   altText: Project image
 ---
 
