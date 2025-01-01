@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-    ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT
-    熟练使用rhino、blender、keyshot Axure、figma等
-    踏实肯干，能抗压，社会实践经验丰富
+    ## 嗨，我是CFZ,一名体验交互设计师,本科毕业于GDUT 熟练使用rhino、blender、keyshot Axure、figma等 踏实肯干，能抗压，社会实践经验丰富
     media:
       type: ImageBlock
       url: /images/img2.jpg
