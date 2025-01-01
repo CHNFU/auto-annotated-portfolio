@@ -1,17 +1,17 @@
 ---
 type: ProjectLayout
-title: AIGC
+title: 海报
 colors: colors-a
 date: '2023-12-20'
 description: >-
-  sd,mj生图
+  PS，手绘等
 featuredImage:
   type: ImageBlock
-  url: /images/xingguan.jpg
+  url: /images/haibao.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/wanju.jpg
+  url: /images/shouhui.jpg
   altText: Project image
 ---
 
